@@ -5,7 +5,7 @@ hacks to get zotero and Tiddlywiki working together
 ## Installation
 
 1. Import the `.tid` files into a tiddlywiki.
-2. Install Zutilo and Better BibLaTeX plugins for Zotero
+2. Install [Zutilo](https://github.com/willsALMANJ/Zutilo) and [Better BibTeX](https://retorque.re/zotero-better-bibtex/installation/) plugins for Zotero
 3. Add `.js` files to `~/Zotero/translators`
 4. Set `TiddlyWiki Export` as an Alt Quick copy using Zutilo
 
