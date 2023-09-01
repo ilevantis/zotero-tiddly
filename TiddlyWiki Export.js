@@ -28,7 +28,7 @@ function doExport() {
 
 		let tiddler = {
 			papertitle : item.title,
-			title: item.citekey,
+			title: item.citationKey,
 			journal : item.publicationTitle,
 			doi : item.DOI,
 			year : ZU.strToDate(item.date).year,
